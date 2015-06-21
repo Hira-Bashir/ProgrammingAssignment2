@@ -1,12 +1,12 @@
 
 
-#---------------------------------------FUNCTION: makeCacheMatrix---------------------------------------#
+#---------------------------------------FUNCTION: makeCacheMatrix----------------------------------------#
 # This function creates a special matrix, a list, containing the following functions
 # Set the values of the matrix
 # Get the values of the matrix
 # Set the values for Inverse of the matrix
 # Get the values for Inverse of the matrix 
-#-------------------------------------------------------------------------------------------------------#
+#--------------------------------------------------------------------------------------------------------#
 
 makeCacheMatrix <- function(myMatrix){
   
